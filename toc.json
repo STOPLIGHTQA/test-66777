@@ -1,0 +1,21 @@
+{
+  "collapseTableOfContents": true,
+  "items": [
+    {
+      "type": "divider",
+      "title": "MX"
+    },
+    {
+      "type": "item",
+      "title": "Getting Started",
+      "uri": "/docs/mx/getting-started.md",
+      "slug": "mx/getting-started"
+    },
+    {
+      "type": "item",
+      "title": "Authentication",
+      "uri": "/docs/mx/authentication.md",
+      "slug": "mx/authentication"
+    }
+  ]
+}
